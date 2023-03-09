@@ -11,6 +11,7 @@
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-1972d6?style=flat-square&logo=Vuetify)
   ![Quasar](https://img.shields.io/badge/-Quasar-007ACC?style=flat-square&logo=Quasar)
 
   
