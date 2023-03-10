@@ -1,3 +1,4 @@
+<div align="center">
 # 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐀𝐫𝐢𝐞𝐥（アリエル）👋
 
 ## 🚀💻 Technologies & Tools
@@ -19,6 +20,8 @@
   ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css)
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-562f7e?style=flat-square&logo=Bootstrap&logoColor=ffffff)
+
+</div>
 
 <!--
 **Arielqwq/Arielqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
