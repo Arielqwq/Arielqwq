@@ -23,6 +23,8 @@ Welcome to my Github page!
   ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-562f7e?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 
+  If you like this readme file, please give me star! 
+
 </div>
 
 <!--
