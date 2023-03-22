@@ -1,7 +1,7 @@
 <div align="center">
 
 # 𝐇𝐞𝐥𝐥𝐨 𝐈'𝐦 𝐀𝐫𝐢𝐞𝐥 👋
-Welcome to my Github page!
+Welcome to my Github page🌱
 
 ## 🚀💻 Technologies & Tools
 
